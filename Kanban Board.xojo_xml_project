@@ -62,10 +62,16 @@
   <ItemSource>
    <TextEncoding>134217984</TextEncoding>
    <NoteLine>History</NoteLine>
-   <NoteLine>MR 20.12.2019</NoteLine>
+   <NoteLine>MR 19.12.2019</NoteLine>
    <NoteLine>Start</NoteLine>
    <NoteLine></NoteLine>
+   <NoteLine>MR 20.12.2019</NoteLine>
+   <NoteLine>Features</NoteLine>
+   <NoteLine></NoteLine>
    <NoteLine>MR 21.12.2019</NoteLine>
+   <NoteLine>Features</NoteLine>
+   <NoteLine></NoteLine>
+   <NoteLine>MR 24.12.2019</NoteLine>
    <NoteLine>Features</NoteLine>
    <NoteLine></NoteLine>
    <NoteLine></NoteLine>
@@ -541,57 +547,57 @@
  <Control>
   <ControlClass>Listbox</ControlClass>
   <ItemName>Listbox</ItemName>
-  <PropertyVal Name="InitialParent"></PropertyVal>
-  <PropertyVal Name="DataField"></PropertyVal>
-  <PropertyVal Name="DataSource"></PropertyVal>
-  <PropertyVal Name="RowSelectionType">0</PropertyVal>
-  <PropertyVal Name="RequiresSelection">False</PropertyVal>
-  <PropertyVal Name="AllowExpandableRows">False</PropertyVal>
-  <PropertyVal Name="AllowRowReordering">False</PropertyVal>
-  <PropertyVal Name="AllowRowDragging">False</PropertyVal>
-  <PropertyVal Name="AllowResizableColumns">False</PropertyVal>
-  <PropertyVal Name="AllowAutoHideScrollbars">True</PropertyVal>
-  <PropertyVal Name="Underline">False</PropertyVal>
-  <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
-  <PropertyVal Name="FontName">System</PropertyVal>
-  <PropertyVal Name="Italic">False</PropertyVal>
-  <PropertyVal Name="Bold">False</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Transparent">False</PropertyVal>
-  <PropertyVal Name="DropIndicatorVisible">False</PropertyVal>
-  <PropertyVal Name="HasVerticalScrollbar">True</PropertyVal>
-  <PropertyVal Name="HasHorizontalScrollbar">False</PropertyVal>
-  <PropertyVal Name="InitialValue"></PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="HeadingIndex">-1</PropertyVal>
-  <PropertyVal Name="HasHeader">False</PropertyVal>
-  <PropertyVal Name="GridLinesVerticalStyle">0</PropertyVal>
-  <PropertyVal Name="GridLinesHorizontalStyle">0</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="DefaultRowHeight">-1</PropertyVal>
-  <PropertyVal Name="ColumnWidths"></PropertyVal>
-  <PropertyVal Name="ColumnCount">1</PropertyVal>
-  <PropertyVal Name="HasBorder">True</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="_ScrollWidth">-1</PropertyVal>
-  <PropertyVal Name="_ScrollOffset">0</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="TabIndex">0</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="Height">370</PropertyVal>
-  <PropertyVal Name="Width">560</PropertyVal>
-  <PropertyVal Name="Top">20</PropertyVal>
-  <PropertyVal Name="Left">20</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Super">Listbox</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">Listbox1</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Left">20</PropertyVal>
+  <PropertyVal Name="Top">20</PropertyVal>
+  <PropertyVal Name="Width">560</PropertyVal>
+  <PropertyVal Name="Height">370</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="TabIndex">0</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="_ScrollOffset">0</PropertyVal>
+  <PropertyVal Name="_ScrollWidth">-1</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="HasBorder">True</PropertyVal>
+  <PropertyVal Name="ColumnCount">1</PropertyVal>
+  <PropertyVal Name="ColumnWidths"></PropertyVal>
+  <PropertyVal Name="DefaultRowHeight">-1</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="GridLinesHorizontalStyle">0</PropertyVal>
+  <PropertyVal Name="GridLinesVerticalStyle">0</PropertyVal>
+  <PropertyVal Name="HasHeader">False</PropertyVal>
+  <PropertyVal Name="HeadingIndex">-1</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="InitialValue"></PropertyVal>
+  <PropertyVal Name="HasHorizontalScrollbar">False</PropertyVal>
+  <PropertyVal Name="HasVerticalScrollbar">True</PropertyVal>
+  <PropertyVal Name="DropIndicatorVisible">False</PropertyVal>
+  <PropertyVal Name="Transparent">False</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="AllowAutoHideScrollbars">True</PropertyVal>
+  <PropertyVal Name="AllowResizableColumns">False</PropertyVal>
+  <PropertyVal Name="AllowRowDragging">False</PropertyVal>
+  <PropertyVal Name="AllowRowReordering">False</PropertyVal>
+  <PropertyVal Name="AllowExpandableRows">False</PropertyVal>
+  <PropertyVal Name="RequiresSelection">False</PropertyVal>
+  <PropertyVal Name="RowSelectionType">0</PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="Super">Listbox</PropertyVal>
   <ControlIndex>0</ControlIndex>
   <Locked>0</Locked>
   <PartID>921722879</PartID>
@@ -1235,35 +1241,36 @@
  <Control>
   <ControlClass>Board</ControlClass>
   <ItemName>Board</ItemName>
-  <PropertyVal Name="EraseBackground">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="InitialParent"></PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
-  <PropertyVal Name="Transparent">False</PropertyVal>
-  <PropertyVal Name="AllowTabs">True</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="HasBackgroundColor">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="BackgroundColor">16777215</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">False</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Caption">Kanban Board</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="TabIndex">0</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="Top">0</PropertyVal>
-  <PropertyVal Name="Left">0</PropertyVal>
-  <PropertyVal Name="Height">708</PropertyVal>
-  <PropertyVal Name="Width">964</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Super">Board</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">Board1</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Width">964</PropertyVal>
+  <PropertyVal Name="Height">708</PropertyVal>
+  <PropertyVal Name="Left">0</PropertyVal>
+  <PropertyVal Name="Top">0</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="TabIndex">0</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="Caption">Kanban Board</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="AllowFocusRing">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="BackgroundColor">16777215</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="HasBackgroundColor">True</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="AllowTabs">True</PropertyVal>
+  <PropertyVal Name="Transparent">False</PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="EraseBackground">True</PropertyVal>
+  <PropertyVal Name="Super">Board</PropertyVal>
   <ControlIndex>0</ControlIndex>
   <Locked>0</Locked>
   <PartID>338731007</PartID>
@@ -1271,33 +1278,33 @@
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="InitialParent">Board1</PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Icon">0</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="TabIndex">0</PropertyVal>
-  <PropertyVal Name="LockBottom">False</PropertyVal>
-  <PropertyVal Name="LockRight">False</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="Height">16</PropertyVal>
-  <PropertyVal Name="Width">16</PropertyVal>
-  <PropertyVal Name="Top">20</PropertyVal>
-  <PropertyVal Name="Left">20</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Super">ImageButton</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">ChangedIcon</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Left">20</PropertyVal>
+  <PropertyVal Name="Top">20</PropertyVal>
+  <PropertyVal Name="Width">16</PropertyVal>
+  <PropertyVal Name="Height">16</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="TabIndex">0</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="Icon">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="InitialParent">Board1</PropertyVal>
+  <PropertyVal Name="Super">ImageButton</PropertyVal>
   <ControlIndex>1</ControlIndex>
   <Locked>0</Locked>
   <PartID>160020479</PartID>
@@ -1603,32 +1610,32 @@
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="Name">ImageButtonSave</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">298</PropertyVal>
-  <PropertyVal Name="Top">20</PropertyVal>
-  <PropertyVal Name="Width">96</PropertyVal>
-  <PropertyVal Name="Height">96</PropertyVal>
-  <PropertyVal Name="LockLeft">False</PropertyVal>
-  <PropertyVal Name="LockTop">False</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="TabIndex">2</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="Icon">1131032575</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
   <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Icon">1131032575</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabIndex">2</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">False</PropertyVal>
+  <PropertyVal Name="LockLeft">False</PropertyVal>
+  <PropertyVal Name="Height">96</PropertyVal>
+  <PropertyVal Name="Width">96</PropertyVal>
+  <PropertyVal Name="Top">20</PropertyVal>
+  <PropertyVal Name="Left">298</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">ImageButtonSave</PropertyVal>
   <PropertyVal Name="Super">ImageButton</PropertyVal>
   <ControlIndex>0</ControlIndex>
   <Locked>0</Locked>
@@ -1637,47 +1644,47 @@
  <Control>
   <ControlClass>TextField</ControlClass>
   <ItemName>TextField</ItemName>
-  <PropertyVal Name="Name">TextFieldUser</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">20</PropertyVal>
-  <PropertyVal Name="Top">132</PropertyVal>
-  <PropertyVal Name="Width">178</PropertyVal>
-  <PropertyVal Name="Height">22</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">False</PropertyVal>
-  <PropertyVal Name="LockBottom">False</PropertyVal>
-  <PropertyVal Name="TabIndex">1</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="BackgroundColor">16777215</PropertyVal>
-  <PropertyVal Name="HasBorder">True</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Format"></PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Password">False</PropertyVal>
-  <PropertyVal Name="TextColor">0</PropertyVal>
-  <PropertyVal Name="Transparent">False</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="FontName">System</PropertyVal>
-  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
-  <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="Bold">False</PropertyVal>
-  <PropertyVal Name="Italic">False</PropertyVal>
-  <PropertyVal Name="Underline">False</PropertyVal>
-  <PropertyVal Name="Hint"></PropertyVal>
-  <PropertyVal Name="Value"></PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="TextAlignment">0</PropertyVal>
-  <PropertyVal Name="AllowSpellChecking">False</PropertyVal>
-  <PropertyVal Name="MaximumCharactersAllowed">0</PropertyVal>
-  <PropertyVal Name="ValidationMask"></PropertyVal>
-  <PropertyVal Name="ReadOnly">False</PropertyVal>
-  <PropertyVal Name="DataSource"></PropertyVal>
   <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="ReadOnly">False</PropertyVal>
+  <PropertyVal Name="ValidationMask"></PropertyVal>
+  <PropertyVal Name="MaximumCharactersAllowed">0</PropertyVal>
+  <PropertyVal Name="AllowSpellChecking">False</PropertyVal>
+  <PropertyVal Name="TextAlignment">0</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="Value"></PropertyVal>
+  <PropertyVal Name="Hint"></PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Transparent">False</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="Password">False</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Format"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="HasBorder">True</PropertyVal>
+  <PropertyVal Name="BackgroundColor">16777215</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">1</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">22</PropertyVal>
+  <PropertyVal Name="Width">178</PropertyVal>
+  <PropertyVal Name="Top">132</PropertyVal>
+  <PropertyVal Name="Left">20</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">TextFieldUser</PropertyVal>
   <PropertyVal Name="Super">TextField</PropertyVal>
   <ControlIndex>1</ControlIndex>
   <Locked>0</Locked>
@@ -1686,52 +1693,52 @@
  <Control>
   <ControlClass>TextArea</ControlClass>
   <ItemName>TextArea</ItemName>
-  <PropertyVal Name="Name">TextAreaCard</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">20</PropertyVal>
-  <PropertyVal Name="Top">20</PropertyVal>
-  <PropertyVal Name="Width">258</PropertyVal>
-  <PropertyVal Name="Height">96</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">False</PropertyVal>
-  <PropertyVal Name="LockBottom">False</PropertyVal>
-  <PropertyVal Name="TabIndex">0</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="BackgroundColor">16777215</PropertyVal>
-  <PropertyVal Name="HasBorder">True</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Format"></PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="HideSelection">True</PropertyVal>
-  <PropertyVal Name="LineHeight">0.00</PropertyVal>
-  <PropertyVal Name="LineSpacing">1.00</PropertyVal>
-  <PropertyVal Name="Multiline">True</PropertyVal>
-  <PropertyVal Name="HasHorizontalScrollbar">False</PropertyVal>
-  <PropertyVal Name="HasVerticalScrollbar">True</PropertyVal>
-  <PropertyVal Name="AllowStyledText">True</PropertyVal>
-  <PropertyVal Name="TextColor">0</PropertyVal>
-  <PropertyVal Name="Transparent">False</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="Bold">False</PropertyVal>
-  <PropertyVal Name="Italic">False</PropertyVal>
-  <PropertyVal Name="FontName">System</PropertyVal>
-  <PropertyVal Name="FontSize">1.5e+1</PropertyVal>
-  <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="Underline">False</PropertyVal>
-  <PropertyVal Name="Value"></PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="TextAlignment">0</PropertyVal>
-  <PropertyVal Name="AllowSpellChecking">True</PropertyVal>
-  <PropertyVal Name="MaximumCharactersAllowed">0</PropertyVal>
-  <PropertyVal Name="ValidationMask"></PropertyVal>
-  <PropertyVal Name="ReadOnly">False</PropertyVal>
-  <PropertyVal Name="DataSource"></PropertyVal>
   <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="ReadOnly">False</PropertyVal>
+  <PropertyVal Name="ValidationMask"></PropertyVal>
+  <PropertyVal Name="MaximumCharactersAllowed">0</PropertyVal>
+  <PropertyVal Name="AllowSpellChecking">True</PropertyVal>
+  <PropertyVal Name="TextAlignment">0</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="Value"></PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">1.5e+1</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Transparent">False</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="AllowStyledText">True</PropertyVal>
+  <PropertyVal Name="HasVerticalScrollbar">True</PropertyVal>
+  <PropertyVal Name="HasHorizontalScrollbar">False</PropertyVal>
+  <PropertyVal Name="Multiline">True</PropertyVal>
+  <PropertyVal Name="LineSpacing">1.00</PropertyVal>
+  <PropertyVal Name="LineHeight">0.00</PropertyVal>
+  <PropertyVal Name="HideSelection">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Format"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="HasBorder">True</PropertyVal>
+  <PropertyVal Name="BackgroundColor">16777215</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">0</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">96</PropertyVal>
+  <PropertyVal Name="Width">258</PropertyVal>
+  <PropertyVal Name="Top">20</PropertyVal>
+  <PropertyVal Name="Left">20</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">TextAreaCard</PropertyVal>
   <PropertyVal Name="Super">TextArea</PropertyVal>
   <ControlIndex>2</ControlIndex>
   <Locked>0</Locked>
@@ -2177,57 +2184,57 @@
  <Control>
   <ControlClass>Listbox</ControlClass>
   <ItemName>Listbox</ItemName>
-  <PropertyVal Name="InitialParent"></PropertyVal>
-  <PropertyVal Name="DataField"></PropertyVal>
-  <PropertyVal Name="DataSource"></PropertyVal>
-  <PropertyVal Name="RowSelectionType">0</PropertyVal>
-  <PropertyVal Name="RequiresSelection">True</PropertyVal>
-  <PropertyVal Name="AllowExpandableRows">False</PropertyVal>
-  <PropertyVal Name="AllowRowReordering">True</PropertyVal>
-  <PropertyVal Name="AllowRowDragging">True</PropertyVal>
-  <PropertyVal Name="AllowResizableColumns">False</PropertyVal>
-  <PropertyVal Name="AllowAutoHideScrollbars">False</PropertyVal>
-  <PropertyVal Name="Underline">False</PropertyVal>
-  <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
-  <PropertyVal Name="FontName">System</PropertyVal>
-  <PropertyVal Name="Italic">False</PropertyVal>
-  <PropertyVal Name="Bold">False</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Transparent">False</PropertyVal>
-  <PropertyVal Name="DropIndicatorVisible">True</PropertyVal>
-  <PropertyVal Name="HasVerticalScrollbar">True</PropertyVal>
-  <PropertyVal Name="HasHorizontalScrollbar">False</PropertyVal>
-  <PropertyVal Name="InitialValue"></PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="HeadingIndex">-1</PropertyVal>
-  <PropertyVal Name="HasHeader">False</PropertyVal>
-  <PropertyVal Name="GridLinesVerticalStyle">0</PropertyVal>
-  <PropertyVal Name="GridLinesHorizontalStyle">2</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="DefaultRowHeight">-1</PropertyVal>
-  <PropertyVal Name="ColumnWidths">*</PropertyVal>
-  <PropertyVal Name="ColumnCount">1</PropertyVal>
-  <PropertyVal Name="HasBorder">True</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="_ScrollWidth">-1</PropertyVal>
-  <PropertyVal Name="_ScrollOffset">0</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="TabIndex">0</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="Height">336</PropertyVal>
-  <PropertyVal Name="Width">226</PropertyVal>
-  <PropertyVal Name="Top">44</PropertyVal>
-  <PropertyVal Name="Left">20</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Super">Listbox</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">ListboxUsers</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Left">20</PropertyVal>
+  <PropertyVal Name="Top">44</PropertyVal>
+  <PropertyVal Name="Width">226</PropertyVal>
+  <PropertyVal Name="Height">336</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="TabIndex">0</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="_ScrollOffset">0</PropertyVal>
+  <PropertyVal Name="_ScrollWidth">-1</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="HasBorder">True</PropertyVal>
+  <PropertyVal Name="ColumnCount">1</PropertyVal>
+  <PropertyVal Name="ColumnWidths">*</PropertyVal>
+  <PropertyVal Name="DefaultRowHeight">-1</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="GridLinesHorizontalStyle">2</PropertyVal>
+  <PropertyVal Name="GridLinesVerticalStyle">0</PropertyVal>
+  <PropertyVal Name="HasHeader">False</PropertyVal>
+  <PropertyVal Name="HeadingIndex">-1</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="InitialValue"></PropertyVal>
+  <PropertyVal Name="HasHorizontalScrollbar">False</PropertyVal>
+  <PropertyVal Name="HasVerticalScrollbar">True</PropertyVal>
+  <PropertyVal Name="DropIndicatorVisible">True</PropertyVal>
+  <PropertyVal Name="Transparent">False</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="AllowAutoHideScrollbars">False</PropertyVal>
+  <PropertyVal Name="AllowResizableColumns">False</PropertyVal>
+  <PropertyVal Name="AllowRowDragging">True</PropertyVal>
+  <PropertyVal Name="AllowRowReordering">True</PropertyVal>
+  <PropertyVal Name="AllowExpandableRows">False</PropertyVal>
+  <PropertyVal Name="RequiresSelection">True</PropertyVal>
+  <PropertyVal Name="RowSelectionType">0</PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="Super">Listbox</PropertyVal>
   <ControlIndex>0</ControlIndex>
   <Locked>0</Locked>
   <PartID>944916479</PartID>
@@ -2235,33 +2242,33 @@
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="InitialParent"></PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Icon">706004991</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="TabIndex">1</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="LockRight">False</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="Height">32</PropertyVal>
-  <PropertyVal Name="Width">32</PropertyVal>
-  <PropertyVal Name="Top">0</PropertyVal>
-  <PropertyVal Name="Left">117</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Super">ImageButton</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">ButtonAddUser</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Left">117</PropertyVal>
+  <PropertyVal Name="Top">0</PropertyVal>
+  <PropertyVal Name="Width">32</PropertyVal>
+  <PropertyVal Name="Height">32</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="TabIndex">1</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="Icon">706004991</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="Super">ImageButton</PropertyVal>
   <ControlIndex>1</ControlIndex>
   <Locked>0</Locked>
   <PartID>2085007359</PartID>
@@ -2269,33 +2276,33 @@
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="InitialParent"></PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Icon">184389631</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="TabIndex">2</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="LockRight">False</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="Height">32</PropertyVal>
-  <PropertyVal Name="Width">32</PropertyVal>
-  <PropertyVal Name="Top">0</PropertyVal>
-  <PropertyVal Name="Left">20</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Super">ImageButton</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">ButtonDeleteUser</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Left">20</PropertyVal>
+  <PropertyVal Name="Top">0</PropertyVal>
+  <PropertyVal Name="Width">32</PropertyVal>
+  <PropertyVal Name="Height">32</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="TabIndex">2</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="Icon">184389631</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="Super">ImageButton</PropertyVal>
   <ControlIndex>2</ControlIndex>
   <Locked>0</Locked>
   <PartID>1458190335</PartID>
@@ -3312,7 +3319,7 @@
   <PropertyVal Name="DataField"></PropertyVal>
   <PropertyVal Name="DataSource"></PropertyVal>
   <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="FontSize">0.0</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
   <PropertyVal Name="Underline">False</PropertyVal>
   <PropertyVal Name="FontName">System</PropertyVal>
   <PropertyVal Name="Italic">False</PropertyVal>
@@ -3775,6 +3782,7 @@
    <SourceLine></SourceLine>
    <SourceLine>NewCard.Top = obj.DropTop</SourceLine>
    <SourceLine>NewCard.Width = Self.Width</SourceLine>
+   <SourceLine>NewCard.CardDate = DateTime.Now.ToString</SourceLine>
    <SourceLine></SourceLine>
    <SourceLine>Add(NewCard)</SourceLine>
    <SourceLine></SourceLine>
@@ -3860,10 +3868,11 @@
    <SourceLine>AddHandler card.HaveNewSize, AddressOf CardHaveNewSize</SourceLine>
    <SourceLine>AddHandler card.Changed, AddressOf CardChanged</SourceLine>
    <SourceLine></SourceLine>
-   <SourceLine>card.EmbedWithin(Self,0,0,Self.Width,-1)</SourceLine>
+   <SourceLine>card.EmbedWithin(Self.CardContainer,0,0,Self.Width,-1)</SourceLine>
    <SourceLine></SourceLine>
    <SourceLine>CardsPosition</SourceLine>
    <SourceLine></SourceLine>
+   <SourceLine>UpdateLabelCount</SourceLine>
    <SourceLine></SourceLine>
    <SourceLine>End Sub</SourceLine>
   </ItemSource>
@@ -3890,6 +3899,8 @@
    <SourceLine>card.Close</SourceLine>
    <SourceLine></SourceLine>
    <SourceLine>RemoveFromList card</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>UpdateLabelCount</SourceLine>
    <SourceLine></SourceLine>
    <SourceLine>RaiseEvent Changed</SourceLine>
    <SourceLine></SourceLine>
@@ -4165,6 +4176,8 @@
    <SourceLine>Remove(Cards(0))</SourceLine>
    <SourceLine>Wend</SourceLine>
    <SourceLine></SourceLine>
+   <SourceLine>UpdateLabelCount</SourceLine>
+   <SourceLine></SourceLine>
    <SourceLine>RaiseEvent Changed</SourceLine>
    <SourceLine></SourceLine>
    <SourceLine></SourceLine>
@@ -4246,6 +4259,24 @@
   <TextEncoding>134217984</TextEncoding>
   <AliasName></AliasName>
   <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <ItemParams></ItemParams>
+  <ItemResult></ItemResult>
+ </Method>
+ <Method>
+  <ItemName>UpdateLabelCount</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>355520511</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub UpdateLabelCount()</SourceLine>
+   <SourceLine>LabelCount.Value = Str(Cards.Count)</SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <AliasName></AliasName>
+  <ItemFlags>33</ItemFlags>
   <IsShared>0</IsShared>
   <ItemParams></ItemParams>
   <ItemResult></ItemResult>
@@ -4616,6 +4647,9 @@
   </ViewProperty>
  </ViewBehavior>
  <ControlBehavior>
+  <Superclass>Rectangle</Superclass>
+ </ControlBehavior>
+ <ControlBehavior>
   <Superclass>Canvas</Superclass>
   <HookInstance>
    <ItemName>Paint</ItemName>
@@ -4705,6 +4739,40 @@
    </ItemSource>
   </HookInstance>
  </ControlBehavior>
+ <ControlBehavior>
+  <Superclass>Label</Superclass>
+ </ControlBehavior>
+ <Control>
+  <ControlClass>Rectangle</ControlClass>
+  <ItemName>Rectangle</ItemName>
+  <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TopLeftColor">16777215</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="FillColor">16777215</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="BottomRightColor">0</PropertyVal>
+  <PropertyVal Name="BorderThickness">0.00</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">2</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">550</PropertyVal>
+  <PropertyVal Name="Width">300</PropertyVal>
+  <PropertyVal Name="Top">50</PropertyVal>
+  <PropertyVal Name="Left">0</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Super">Rectangle</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">CardContainer</PropertyVal>
+  <ControlIndex>0</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>565653503</PartID>
+ </Control>
  <Control>
   <ControlClass>Canvas</ControlClass>
   <ItemName>Canvas</ItemName>
@@ -4734,7 +4802,7 @@
   <PropertyVal Name="Super">Canvas</PropertyVal>
   <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">CanvasLabelBackground</PropertyVal>
-  <ControlIndex>0</ControlIndex>
+  <ControlIndex>1</ControlIndex>
   <Locked>0</Locked>
   <PartID>103405567</PartID>
  </Control>
@@ -4775,7 +4843,7 @@
   <PropertyVal Name="Super">Label</PropertyVal>
   <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">LabelCaption</PropertyVal>
-  <ControlIndex>1</ControlIndex>
+  <ControlIndex>2</ControlIndex>
   <Locked>0</Locked>
   <PartID>1437083647</PartID>
  </Control>
@@ -4790,7 +4858,7 @@
   <PropertyVal Name="AllowFocus">True</PropertyVal>
   <PropertyVal Name="Visible">True</PropertyVal>
   <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Tooltip">Add</PropertyVal>
   <PropertyVal Name="Enabled">True</PropertyVal>
   <PropertyVal Name="Backdrop">0</PropertyVal>
   <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
@@ -4809,9 +4877,50 @@
   <PropertyVal Name="Super">ImageButton</PropertyVal>
   <PropertyVal Name="Index">-2147483648</PropertyVal>
   <PropertyVal Name="Name">ImageButtonAdd</PropertyVal>
-  <ControlIndex>2</ControlIndex>
+  <ControlIndex>3</ControlIndex>
   <Locked>0</Locked>
   <PartID>1190576127</PartID>
+ </Control>
+ <Control>
+  <ControlClass>Label</ControlClass>
+  <ItemName>Label</ItemName>
+  <PropertyVal Name="InitialParent">LabelCaption</PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Value">000</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="TextAlignment">0</PropertyVal>
+  <PropertyVal Name="Selectable">False</PropertyVal>
+  <PropertyVal Name="Multiline">False</PropertyVal>
+  <PropertyVal Name="Tooltip">Count</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">1</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">20</PropertyVal>
+  <PropertyVal Name="Width">100</PropertyVal>
+  <PropertyVal Name="Top">30</PropertyVal>
+  <PropertyVal Name="Left">10</PropertyVal>
+  <PropertyVal Name="Scope">2</PropertyVal>
+  <PropertyVal Name="Super">Label</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">LabelCount</PropertyVal>
+  <ControlIndex>4</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>633239551</PartID>
  </Control>
 </block>
 <block type="Window" ID="2066989055">
@@ -5088,6 +5197,10 @@
    <SourceLine>card.RoundRectangle1.FillColor = Me.CardColor</SourceLine>
    <SourceLine>card.Priority = Me.Priority</SourceLine>
    <SourceLine>card.Prompt = Me.Prompt</SourceLine>
+   <SourceLine>card.CardDate = Me.CardDate</SourceLine>
+   <SourceLine>card.CardTags = Me.CardTags</SourceLine>
+   <SourceLine>card.CardRemark = Me.CardRemark</SourceLine>
+   <SourceLine>'card.CardMedal = Me.CardMedal</SourceLine>
    <SourceLine></SourceLine>
    <SourceLine>Return card</SourceLine>
    <SourceLine></SourceLine>
@@ -5144,10 +5257,10 @@
    <SourceLine>Self.Height = card.Value("Height")</SourceLine>
    <SourceLine>Self.Priority = card.Value("Priority") 'Ja / Nein</SourceLine>
    <SourceLine>Self.Prompt = card.Value("Prompt") 'Zeitnah</SourceLine>
-   <SourceLine>'.. card.Value("Date") </SourceLine>
-   <SourceLine>'.. card.Value("Tags") </SourceLine>
-   <SourceLine>'.. card.Value("Remark") </SourceLine>
-   <SourceLine></SourceLine>
+   <SourceLine>Self.CardDate = card.Value("Date") </SourceLine>
+   <SourceLine>Self.CardTags = card.Value("Tags") </SourceLine>
+   <SourceLine>Self.CardRemark = card.Value("Remark") </SourceLine>
+   <SourceLine>' = card.Value("Medal") </SourceLine>
    <SourceLine>End Sub</SourceLine>
   </ItemSource>
   <TextEncoding>134217984</TextEncoding>
@@ -5174,9 +5287,14 @@
    <SourceLine>card.Value("Height") = Str(Self.Height)</SourceLine>
    <SourceLine>card.Value("Priority") = Priority 'Ja / Nein</SourceLine>
    <SourceLine>card.Value("Prompt") = Prompt 'Zeitnah</SourceLine>
-   <SourceLine>card.Value("Date") = ""</SourceLine>
-   <SourceLine>card.Value("Tags") = ""</SourceLine>
-   <SourceLine>card.Value("Remark") = ""</SourceLine>
+   <SourceLine>card.Value("Date") = CardDate</SourceLine>
+   <SourceLine>card.Value("Tags") = CardTags</SourceLine>
+   <SourceLine>card.Value("Remark") = CardRemark</SourceLine>
+   <SourceLine>card.Value("Medal") = False '...</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>'siehe auch Load,Clear,Clone,Edit to and from</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
    <SourceLine></SourceLine>
    <SourceLine></SourceLine>
    <SourceLine>End Sub</SourceLine>
@@ -5202,7 +5320,10 @@
    <SourceLine>Priority = False</SourceLine>
    <SourceLine>Prompt = False</SourceLine>
    <SourceLine>IsSelected = False</SourceLine>
-   <SourceLine></SourceLine>
+   <SourceLine>CardDate = datetime.Now.ToString</SourceLine>
+   <SourceLine>CardRemark = ""</SourceLine>
+   <SourceLine>CardTags = ""</SourceLine>
+   <SourceLine>'CardMedal = False</SourceLine>
    <SourceLine></SourceLine>
    <SourceLine>End Sub</SourceLine>
   </ItemSource>
@@ -5461,6 +5582,90 @@
    <SourceLine>End Get</SourceLine>
   </GetAccessor>
  </Property>
+ <Property>
+  <ItemName>CardDate</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1571057663</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Property CardDate As String</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>CardDate As String</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <SetAccessor>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Set</SourceLine>
+   <SourceLine>LabelDate.Value = value</SourceLine>
+   <SourceLine>End Set</SourceLine>
+  </SetAccessor>
+  <GetAccessor>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Get</SourceLine>
+   <SourceLine>Return LabelDate.Value</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Get</SourceLine>
+  </GetAccessor>
+ </Property>
+ <Property>
+  <ItemName>CardTags</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>92585983</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Property CardTags As String</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>CardTags As String</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <SetAccessor>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Set</SourceLine>
+   <SourceLine>LabelTags.Value = value</SourceLine>
+   <SourceLine>End Set</SourceLine>
+  </SetAccessor>
+  <GetAccessor>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Get</SourceLine>
+   <SourceLine>Return LabelTags.Value</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Get</SourceLine>
+  </GetAccessor>
+ </Property>
+ <Property>
+  <ItemName>CardRemark</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1426608127</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Property CardRemark As String</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>CardRemark As String</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <SetAccessor>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Set</SourceLine>
+   <SourceLine>LabelRemark.Value = value</SourceLine>
+   <SourceLine>End Set</SourceLine>
+  </SetAccessor>
+  <GetAccessor>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Get</SourceLine>
+   <SourceLine>Return LabelRemark.Value</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Get</SourceLine>
+  </GetAccessor>
+ </Property>
  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
  <PropertyVal Name="Transparent">False</PropertyVal>
  <PropertyVal Name="EraseBackground">True</PropertyVal>
@@ -5709,9 +5914,30 @@
    <PropertyValue>True</PropertyValue>
    <ItemType>Boolean</ItemType>
   </ViewProperty>
+  <ViewProperty>
+   <ObjName>CardDate</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>CardTags</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>CardRemark</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
  </ViewBehavior>
  <ControlBehavior>
   <Superclass>RoundRectangle</Superclass>
+ </ControlBehavior>
+ <ControlBehavior>
+  <Superclass>Label</Superclass>
  </ControlBehavior>
  <ControlBehavior>
   <Superclass>Label</Superclass>
@@ -5838,35 +6064,40 @@
  <ControlBehavior>
   <Superclass>ImageButton</Superclass>
  </ControlBehavior>
+ <ControlBehavior>
+  <Superclass>Label</Superclass>
+ </ControlBehavior>
+ <ControlBehavior>
+  <Superclass>Label</Superclass>
+ </ControlBehavior>
  <Control>
   <ControlClass>RoundRectangle</ControlClass>
   <ItemName>RoundRectangle</ItemName>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="Name">RoundRectangle1</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">0</PropertyVal>
-  <PropertyVal Name="Top">0</PropertyVal>
-  <PropertyVal Name="Width">300</PropertyVal>
-  <PropertyVal Name="Height">150</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="TabIndex">2</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="BorderColor">0</PropertyVal>
-  <PropertyVal Name="BorderThickness">1.00</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="FillColor">16777215</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="CornerHeight">16.00</PropertyVal>
-  <PropertyVal Name="CornerWidth">16.00</PropertyVal>
-  <PropertyVal Name="Transparent">False</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
   <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Transparent">False</PropertyVal>
+  <PropertyVal Name="CornerWidth">16.00</PropertyVal>
+  <PropertyVal Name="CornerHeight">16.00</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="FillColor">16777215</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="BorderThickness">1.00</PropertyVal>
+  <PropertyVal Name="BorderColor">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">2</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">150</PropertyVal>
+  <PropertyVal Name="Width">300</PropertyVal>
+  <PropertyVal Name="Top">0</PropertyVal>
+  <PropertyVal Name="Left">0</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
   <PropertyVal Name="Super">RoundRectangle</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">RoundRectangle1</PropertyVal>
   <ControlIndex>0</ControlIndex>
   <Locked>0</Locked>
   <PartID>480434175</PartID>
@@ -5874,220 +6105,343 @@
  <Control>
   <ControlClass>Label</ControlClass>
   <ItemName>Label</ItemName>
-  <PropertyVal Name="Name">LabelUser</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">55</PropertyVal>
-  <PropertyVal Name="Top">123</PropertyVal>
-  <PropertyVal Name="Width">189</PropertyVal>
-  <PropertyVal Name="Height">20</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">False</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="TabIndex">1</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="TabStop">False</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Multiline">False</PropertyVal>
-  <PropertyVal Name="Selectable">True</PropertyVal>
-  <PropertyVal Name="TextAlignment">0</PropertyVal>
-  <PropertyVal Name="TextColor">0</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="Value">User</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="Bold">False</PropertyVal>
-  <PropertyVal Name="Italic">False</PropertyVal>
-  <PropertyVal Name="FontName">System</PropertyVal>
-  <PropertyVal Name="Underline">False</PropertyVal>
-  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
-  <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="DataSource"></PropertyVal>
-  <PropertyVal Name="DataField"></PropertyVal>
   <PropertyVal Name="InitialParent">RoundRectangle1</PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">9.0e+</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Value">.. Date ..</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="TextAlignment">2</PropertyVal>
+  <PropertyVal Name="Selectable">False</PropertyVal>
+  <PropertyVal Name="Multiline">False</PropertyVal>
+  <PropertyVal Name="Tooltip">Date</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">6</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">9</PropertyVal>
+  <PropertyVal Name="Width">120</PropertyVal>
+  <PropertyVal Name="Top">1</PropertyVal>
+  <PropertyVal Name="Left">90</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
   <PropertyVal Name="Super">Label</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">LabelDate</PropertyVal>
   <ControlIndex>1</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>1711376383</PartID>
+ </Control>
+ <Control>
+  <ControlClass>Label</ControlClass>
+  <ItemName>Label</ItemName>
+  <PropertyVal Name="InitialParent">RoundRectangle1</PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Value">User</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="TextAlignment">0</PropertyVal>
+  <PropertyVal Name="Selectable">True</PropertyVal>
+  <PropertyVal Name="Multiline">False</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">False</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">1</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">False</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">20</PropertyVal>
+  <PropertyVal Name="Width">189</PropertyVal>
+  <PropertyVal Name="Top">123</PropertyVal>
+  <PropertyVal Name="Left">55</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Super">Label</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">LabelUser</PropertyVal>
+  <ControlIndex>2</ControlIndex>
   <Locked>0</Locked>
   <PartID>1987440639</PartID>
  </Control>
  <Control>
   <ControlClass>Label</ControlClass>
   <ItemName>Label</ItemName>
-  <PropertyVal Name="Name">LabelText</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">9</PropertyVal>
-  <PropertyVal Name="Top">10</PropertyVal>
-  <PropertyVal Name="Width">246</PropertyVal>
-  <PropertyVal Name="Height">113</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="TabIndex">0</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Multiline">True</PropertyVal>
-  <PropertyVal Name="Selectable">True</PropertyVal>
-  <PropertyVal Name="TextAlignment">0</PropertyVal>
-  <PropertyVal Name="TextColor">0</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="Value"><Hex bytes="22">546578740D0A546578740D0A546578740D0A54657874</Hex></PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="Bold">False</PropertyVal>
-  <PropertyVal Name="Italic">False</PropertyVal>
-  <PropertyVal Name="FontName">System</PropertyVal>
-  <PropertyVal Name="Underline">False</PropertyVal>
-  <PropertyVal Name="FontSize">2.0e+1</PropertyVal>
-  <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="DataSource"></PropertyVal>
-  <PropertyVal Name="DataField"></PropertyVal>
   <PropertyVal Name="InitialParent">RoundRectangle1</PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">2.0e+1</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Value"><Hex bytes="22">546578740D0A546578740D0A546578740D0A54657874</Hex></PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="TextAlignment">0</PropertyVal>
+  <PropertyVal Name="Selectable">True</PropertyVal>
+  <PropertyVal Name="Multiline">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">0</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">113</PropertyVal>
+  <PropertyVal Name="Width">246</PropertyVal>
+  <PropertyVal Name="Top">10</PropertyVal>
+  <PropertyVal Name="Left">9</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
   <PropertyVal Name="Super">Label</PropertyVal>
-  <ControlIndex>2</ControlIndex>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">LabelText</PropertyVal>
+  <ControlIndex>3</ControlIndex>
   <Locked>0</Locked>
   <PartID>1738237951</PartID>
  </Control>
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="Name">ImageButtonDel</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">256</PropertyVal>
-  <PropertyVal Name="Top">108</PropertyVal>
-  <PropertyVal Name="Width">32</PropertyVal>
-  <PropertyVal Name="Height">32</PropertyVal>
-  <PropertyVal Name="LockLeft">False</PropertyVal>
-  <PropertyVal Name="LockTop">False</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="TabIndex">2</PropertyVal>
-  <PropertyVal Name="TabStop">False</PropertyVal>
-  <PropertyVal Name="Icon">184389631</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocus">True</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
   <PropertyVal Name="InitialParent">RoundRectangle1</PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="AllowFocus">True</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Icon">184389631</PropertyVal>
+  <PropertyVal Name="TabStop">False</PropertyVal>
+  <PropertyVal Name="TabIndex">2</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">False</PropertyVal>
+  <PropertyVal Name="LockLeft">False</PropertyVal>
+  <PropertyVal Name="Height">32</PropertyVal>
+  <PropertyVal Name="Width">32</PropertyVal>
+  <PropertyVal Name="Top">108</PropertyVal>
+  <PropertyVal Name="Left">256</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
   <PropertyVal Name="Super">ImageButton</PropertyVal>
-  <ControlIndex>3</ControlIndex>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">ImageButtonDel</PropertyVal>
+  <ControlIndex>4</ControlIndex>
   <Locked>0</Locked>
   <PartID>1827418111</PartID>
  </Control>
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="Name">ImageButtonEdit</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">256</PropertyVal>
-  <PropertyVal Name="Top">10</PropertyVal>
-  <PropertyVal Name="Width">32</PropertyVal>
-  <PropertyVal Name="Height">32</PropertyVal>
-  <PropertyVal Name="LockLeft">False</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">False</PropertyVal>
-  <PropertyVal Name="TabIndex">3</PropertyVal>
-  <PropertyVal Name="TabStop">False</PropertyVal>
-  <PropertyVal Name="Icon">509423615</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocus">True</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
   <PropertyVal Name="InitialParent">RoundRectangle1</PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="AllowFocus">True</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Icon">509423615</PropertyVal>
+  <PropertyVal Name="TabStop">False</PropertyVal>
+  <PropertyVal Name="TabIndex">3</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">False</PropertyVal>
+  <PropertyVal Name="Height">32</PropertyVal>
+  <PropertyVal Name="Width">32</PropertyVal>
+  <PropertyVal Name="Top">10</PropertyVal>
+  <PropertyVal Name="Left">256</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
   <PropertyVal Name="Super">ImageButton</PropertyVal>
-  <ControlIndex>4</ControlIndex>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">ImageButtonEdit</PropertyVal>
+  <ControlIndex>5</ControlIndex>
   <Locked>0</Locked>
   <PartID>105668607</PartID>
  </Control>
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="Name">ImageButtonPriority</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">9</PropertyVal>
-  <PropertyVal Name="Top">123</PropertyVal>
-  <PropertyVal Name="Width">16</PropertyVal>
-  <PropertyVal Name="Height">16</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">False</PropertyVal>
-  <PropertyVal Name="LockRight">False</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="TabIndex">4</PropertyVal>
-  <PropertyVal Name="TabStop">False</PropertyVal>
-  <PropertyVal Name="Icon">1169928191</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
   <PropertyVal Name="InitialParent">RoundRectangle1</PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Icon">1169928191</PropertyVal>
+  <PropertyVal Name="TabStop">False</PropertyVal>
+  <PropertyVal Name="TabIndex">4</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">False</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">16</PropertyVal>
+  <PropertyVal Name="Width">16</PropertyVal>
+  <PropertyVal Name="Top">123</PropertyVal>
+  <PropertyVal Name="Left">9</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
   <PropertyVal Name="Super">ImageButton</PropertyVal>
-  <ControlIndex>5</ControlIndex>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">ImageButtonPriority</PropertyVal>
+  <ControlIndex>6</ControlIndex>
   <Locked>0</Locked>
   <PartID>1521987583</PartID>
  </Control>
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="Name">ImageButtonPrompt</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">27</PropertyVal>
-  <PropertyVal Name="Top">123</PropertyVal>
-  <PropertyVal Name="Width">16</PropertyVal>
-  <PropertyVal Name="Height">16</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">False</PropertyVal>
-  <PropertyVal Name="LockRight">False</PropertyVal>
-  <PropertyVal Name="LockBottom">True</PropertyVal>
-  <PropertyVal Name="TabIndex">5</PropertyVal>
-  <PropertyVal Name="TabStop">False</PropertyVal>
-  <PropertyVal Name="Icon">1972936703</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
   <PropertyVal Name="InitialParent">RoundRectangle1</PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Icon">1972936703</PropertyVal>
+  <PropertyVal Name="TabStop">False</PropertyVal>
+  <PropertyVal Name="TabIndex">5</PropertyVal>
+  <PropertyVal Name="LockBottom">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">False</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">16</PropertyVal>
+  <PropertyVal Name="Width">16</PropertyVal>
+  <PropertyVal Name="Top">123</PropertyVal>
+  <PropertyVal Name="Left">27</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
   <PropertyVal Name="Super">ImageButton</PropertyVal>
-  <ControlIndex>6</ControlIndex>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">ImageButtonPrompt</PropertyVal>
+  <ControlIndex>7</ControlIndex>
   <Locked>0</Locked>
   <PartID>9760767</PartID>
+ </Control>
+ <Control>
+  <ControlClass>Label</ControlClass>
+  <ItemName>Label</ItemName>
+  <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Visible">False</PropertyVal>
+  <PropertyVal Name="Value">.. REM ..</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="TextAlignment">2</PropertyVal>
+  <PropertyVal Name="Selectable">False</PropertyVal>
+  <PropertyVal Name="Multiline">False</PropertyVal>
+  <PropertyVal Name="Tooltip">Remark</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">3</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">20</PropertyVal>
+  <PropertyVal Name="Width">120</PropertyVal>
+  <PropertyVal Name="Top">40</PropertyVal>
+  <PropertyVal Name="Left">90</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Super">Label</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">LabelRemark</PropertyVal>
+  <ControlIndex>8</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>1547884543</PartID>
+ </Control>
+ <Control>
+  <ControlClass>Label</ControlClass>
+  <ItemName>Label</ItemName>
+  <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Visible">False</PropertyVal>
+  <PropertyVal Name="Value">.. Tags ..</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="TextAlignment">2</PropertyVal>
+  <PropertyVal Name="Selectable">False</PropertyVal>
+  <PropertyVal Name="Multiline">False</PropertyVal>
+  <PropertyVal Name="Tooltip">Tags</PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">4</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">20</PropertyVal>
+  <PropertyVal Name="Width">120</PropertyVal>
+  <PropertyVal Name="Top">20</PropertyVal>
+  <PropertyVal Name="Left">90</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Super">Label</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">LabelTags</PropertyVal>
+  <ControlIndex>9</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>1378686975</PartID>
  </Control>
 </block>
 <block type="Module" ID="1560715263">
@@ -7822,39 +8176,39 @@
  <Control>
   <ControlClass>Label</ControlClass>
   <ItemName>Label</ItemName>
-  <PropertyVal Name="Name">Label1</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">20</PropertyVal>
-  <PropertyVal Name="Top">20</PropertyVal>
-  <PropertyVal Name="Width">374</PropertyVal>
-  <PropertyVal Name="Height">20</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">False</PropertyVal>
-  <PropertyVal Name="TabIndex">0</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Multiline">False</PropertyVal>
-  <PropertyVal Name="Selectable">False</PropertyVal>
-  <PropertyVal Name="TextAlignment">0</PropertyVal>
-  <PropertyVal Name="TextColor">0</PropertyVal>
-  <PropertyVal Name="Transparent">False</PropertyVal>
-  <PropertyVal Name="Value">Untitled</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="Bold">False</PropertyVal>
-  <PropertyVal Name="Italic">False</PropertyVal>
-  <PropertyVal Name="FontName">System</PropertyVal>
-  <PropertyVal Name="Underline">False</PropertyVal>
-  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
-  <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="DataSource"></PropertyVal>
-  <PropertyVal Name="DataField"></PropertyVal>
   <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Value">Untitled</PropertyVal>
+  <PropertyVal Name="Transparent">False</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="TextAlignment">0</PropertyVal>
+  <PropertyVal Name="Selectable">False</PropertyVal>
+  <PropertyVal Name="Multiline">False</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">0</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">20</PropertyVal>
+  <PropertyVal Name="Width">374</PropertyVal>
+  <PropertyVal Name="Top">20</PropertyVal>
+  <PropertyVal Name="Left">20</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">Label1</PropertyVal>
   <PropertyVal Name="Super">Label</PropertyVal>
   <ControlIndex>0</ControlIndex>
   <Locked>0</Locked>
@@ -7863,47 +8217,47 @@
  <Control>
   <ControlClass>TextField</ControlClass>
   <ItemName>TextField</ItemName>
-  <PropertyVal Name="Name">TextField1</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">20</PropertyVal>
-  <PropertyVal Name="Top">52</PropertyVal>
-  <PropertyVal Name="Width">374</PropertyVal>
-  <PropertyVal Name="Height">22</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">False</PropertyVal>
-  <PropertyVal Name="TabIndex">1</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="BackgroundColor">16777215</PropertyVal>
-  <PropertyVal Name="HasBorder">True</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Format"></PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="Password">False</PropertyVal>
-  <PropertyVal Name="TextColor">0</PropertyVal>
-  <PropertyVal Name="Transparent">False</PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="FontName">System</PropertyVal>
-  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
-  <PropertyVal Name="FontUnit">0</PropertyVal>
-  <PropertyVal Name="Bold">False</PropertyVal>
-  <PropertyVal Name="Italic">False</PropertyVal>
-  <PropertyVal Name="Underline">False</PropertyVal>
-  <PropertyVal Name="Hint"></PropertyVal>
-  <PropertyVal Name="Value"></PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="TextAlignment">0</PropertyVal>
-  <PropertyVal Name="AllowSpellChecking">False</PropertyVal>
-  <PropertyVal Name="MaximumCharactersAllowed">0</PropertyVal>
-  <PropertyVal Name="ValidationMask"></PropertyVal>
-  <PropertyVal Name="ReadOnly">False</PropertyVal>
-  <PropertyVal Name="DataSource"></PropertyVal>
   <PropertyVal Name="DataField"></PropertyVal>
+  <PropertyVal Name="DataSource"></PropertyVal>
+  <PropertyVal Name="ReadOnly">False</PropertyVal>
+  <PropertyVal Name="ValidationMask"></PropertyVal>
+  <PropertyVal Name="MaximumCharactersAllowed">0</PropertyVal>
+  <PropertyVal Name="AllowSpellChecking">False</PropertyVal>
+  <PropertyVal Name="TextAlignment">0</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="Value"></PropertyVal>
+  <PropertyVal Name="Hint"></PropertyVal>
+  <PropertyVal Name="Underline">False</PropertyVal>
+  <PropertyVal Name="Italic">False</PropertyVal>
+  <PropertyVal Name="Bold">False</PropertyVal>
+  <PropertyVal Name="FontUnit">0</PropertyVal>
+  <PropertyVal Name="FontSize">0.0e+</PropertyVal>
+  <PropertyVal Name="FontName">System</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Transparent">False</PropertyVal>
+  <PropertyVal Name="TextColor">0</PropertyVal>
+  <PropertyVal Name="Password">False</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Format"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="HasBorder">True</PropertyVal>
+  <PropertyVal Name="BackgroundColor">16777215</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="TabIndex">1</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">22</PropertyVal>
+  <PropertyVal Name="Width">374</PropertyVal>
+  <PropertyVal Name="Top">52</PropertyVal>
+  <PropertyVal Name="Left">20</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">TextField1</PropertyVal>
   <PropertyVal Name="Super">TextField</PropertyVal>
   <ControlIndex>1</ControlIndex>
   <Locked>0</Locked>
@@ -7912,32 +8266,32 @@
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="Name">ButtonOK</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">221</PropertyVal>
-  <PropertyVal Name="Top">86</PropertyVal>
-  <PropertyVal Name="Width">50</PropertyVal>
-  <PropertyVal Name="Height">50</PropertyVal>
-  <PropertyVal Name="LockLeft">False</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">True</PropertyVal>
-  <PropertyVal Name="LockBottom">False</PropertyVal>
-  <PropertyVal Name="TabIndex">2</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="Icon">1131032575</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
   <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Icon">1131032575</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabIndex">2</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">True</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">False</PropertyVal>
+  <PropertyVal Name="Height">50</PropertyVal>
+  <PropertyVal Name="Width">50</PropertyVal>
+  <PropertyVal Name="Top">86</PropertyVal>
+  <PropertyVal Name="Left">221</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">ButtonOK</PropertyVal>
   <PropertyVal Name="Super">ImageButton</PropertyVal>
   <ControlIndex>2</ControlIndex>
   <Locked>0</Locked>
@@ -7946,32 +8300,32 @@
  <Control>
   <ControlClass>ImageButton</ControlClass>
   <ItemName>ImageButton</ItemName>
-  <PropertyVal Name="Name">ButtonCancel</PropertyVal>
-  <PropertyVal Name="Index">-2147483648</PropertyVal>
-  <PropertyVal Name="Scope">0</PropertyVal>
-  <PropertyVal Name="Left">146</PropertyVal>
-  <PropertyVal Name="Top">86</PropertyVal>
-  <PropertyVal Name="Width">50</PropertyVal>
-  <PropertyVal Name="Height">50</PropertyVal>
-  <PropertyVal Name="LockLeft">True</PropertyVal>
-  <PropertyVal Name="LockTop">True</PropertyVal>
-  <PropertyVal Name="LockRight">False</PropertyVal>
-  <PropertyVal Name="LockBottom">False</PropertyVal>
-  <PropertyVal Name="TabIndex">3</PropertyVal>
-  <PropertyVal Name="TabStop">True</PropertyVal>
-  <PropertyVal Name="Icon">100734975</PropertyVal>
-  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
-  <PropertyVal Name="Backdrop">0</PropertyVal>
-  <PropertyVal Name="Enabled">True</PropertyVal>
-  <PropertyVal Name="Tooltip"></PropertyVal>
-  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
-  <PropertyVal Name="Visible">True</PropertyVal>
-  <PropertyVal Name="AllowFocus">False</PropertyVal>
-  <PropertyVal Name="AllowTabs">False</PropertyVal>
-  <PropertyVal Name="Transparent">True</PropertyVal>
-  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
-  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
   <PropertyVal Name="InitialParent"></PropertyVal>
+  <PropertyVal Name="DoubleBuffer">False</PropertyVal>
+  <PropertyVal Name="TabPanelIndex">0</PropertyVal>
+  <PropertyVal Name="Transparent">True</PropertyVal>
+  <PropertyVal Name="AllowTabs">False</PropertyVal>
+  <PropertyVal Name="AllowFocus">False</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="AllowFocusRing">True</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Backdrop">0</PropertyVal>
+  <PropertyVal Name="AllowAutoDeactivate">True</PropertyVal>
+  <PropertyVal Name="Icon">100734975</PropertyVal>
+  <PropertyVal Name="TabStop">True</PropertyVal>
+  <PropertyVal Name="TabIndex">3</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="Height">50</PropertyVal>
+  <PropertyVal Name="Width">50</PropertyVal>
+  <PropertyVal Name="Top">86</PropertyVal>
+  <PropertyVal Name="Left">146</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Name">ButtonCancel</PropertyVal>
   <PropertyVal Name="Super">ImageButton</PropertyVal>
   <ControlIndex>3</ControlIndex>
   <Locked>0</Locked>
@@ -8174,9 +8528,9 @@
    <EditorCount>1</EditorCount>
    <Editor>
     <EditorIndex>0</EditorIndex>
-    <EditorLocation>BoardColumn.KeyDown</EditorLocation>
+    <EditorLocation>Card.Clone</EditorLocation>
     <EditorPath></EditorPath>
-    <EditingPartID>1138210815</EditingPartID>
+    <EditingPartID>2066989055</EditingPartID>
     <EditorPath></EditorPath>
    </Editor>
    <SelectedTab>0</SelectedTab>
